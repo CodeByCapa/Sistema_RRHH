@@ -1,0 +1,3 @@
+C:/Users/Cooli/CLionProjects/Prototipo SistemaRRHH No4/cmake-build-debug/CMakeFiles/Prototipo_SistemaRRHH_No4.dir
+C:/Users/Cooli/CLionProjects/Prototipo SistemaRRHH No4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cooli/CLionProjects/Prototipo SistemaRRHH No4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
